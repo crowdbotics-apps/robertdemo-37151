@@ -63,6 +63,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [privacy-policy]()
 - [screen-login](screens/login)
 - [react-native-login](modules/login)
+- [screen-onboarding-add-certificate](screens/onboarding-add-certificate)
 
 # Getting started: Frontend
 
